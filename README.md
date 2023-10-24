@@ -1,2 +1,2 @@
 # letter1
-we import some letter png to train a GAN
+we put some basic files
